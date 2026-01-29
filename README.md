@@ -1,0 +1,2 @@
+# rushi
+first git file
